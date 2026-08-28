@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/profile-banner.png" alt="Abstract Shanghai skyline with flowing data paths" width="100%" />
-</p>
+
 
 <h1 align="center">Hi, I'm Lingu 👋</h1>
 
