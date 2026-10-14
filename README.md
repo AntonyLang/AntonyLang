@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi, I'm Lingu 👋</h1>
 
 <p align="center">
@@ -7,28 +5,36 @@
   Building practical AI and full-stack products in Shanghai.
 </p>
 
-## About me
+<p align="center">
+  <a href="https://github.com/AntonyLang?tab=repositories">Browse my repositories</a>
+</p>
 
-I'm interested in turning ideas into small, usable systems — especially where AI, personal productivity, language, and local culture meet.
+## A little about me
+
+I'm interested in turning ideas into small, usable systems, especially where AI, personal productivity, language, and local culture meet.
 
 - 🧭 Exploring applied AI and human-centered software
-- 🛠️ Building with Python and TypeScript across backend, web, and automation
+- 🛠️ Building across backend, web, and automation with Python and TypeScript
 - 🧪 Documenting experiments so they can be reproduced and improved
-- 📍 Shanghai, China
 
-## Current focus
+## What I'm exploring
 
-`Applied AI` · `Full-stack development` · `Developer tools` · `Language technology`
+- **Applied AI & developer tools**
+- **Full-stack products & personal productivity**
+- **Language technology & local culture**
 
-## Toolbox
+## Tools I work with
 
-`Python` · `TypeScript` · `FastAPI` · `React` · `Next.js` · `PostgreSQL` · `Docker`
+- **Languages:** Python · TypeScript
+- **Backend & data:** FastAPI · PostgreSQL
+- **Web:** React · Next.js
+- **Deployment:** Docker
 
-Most of my current projects are private while I refine them. Public releases will appear here when they are ready to be useful.
+Most of my current projects are private while I refine them.
 
 ---
 
 <p align="center">
-  <sub>在上海学习计算机科学，关注 AI 应用、全栈产品，以及技术如何帮助语言与本地文化被更好地记录和使用。</sub>
+  在上海学习计算机科学，关注 AI 应用、全栈产品，<br />
+  以及技术如何帮助语言与本地文化被更好地记录和使用。
 </p>
-
