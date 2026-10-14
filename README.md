@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+  <a href="https://lingulang.com">Personal website</a> ·
   <a href="https://github.com/AntonyLang?tab=repositories">Browse my repositories</a>
 </p>
 
